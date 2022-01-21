@@ -8,7 +8,7 @@ Console Application
      Admin : Login :Username - admin
      Password - 1234
 
-    Admin Page
+     Admin Page
 
       1.Deposit money - Admin can add the money in terms of denominations
       2.Balance - Admin can view the ATM balance
