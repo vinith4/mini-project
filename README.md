@@ -125,3 +125,20 @@ Console Application
              5.Friends list - User can view friends 
              6.Wallet - wallet in this they can add amount
               
+6.VEHICLE RENTAL MACHINE
+
+
+      One login - User
+      User : Login ID-vinith
+      Password - 1234
+      
+      User Page
+          1. New User
+          2. Existing User
+                 1.Vehicle booking - User can book Vehicle
+                 2.Vehicle Cancleing - User can cancle Vehicle
+                 3.History - User can view history book Vehicle
+                 4.Password change - User can change password
+               
+
+     
