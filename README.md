@@ -68,5 +68,60 @@ Console Application
                  5.Password change - they can change password
           
           
-                
+3.LIBRARY MANAGEMENT SYSTEM                
      
+     Two logins - Admin,User
+     Admin : Login :Username - admin
+     Password - 1234
+     User : Login ID-vinith
+     Password - 1234
+
+     
+     Admin Page
+          1.Add a book - Admin can Add book
+          2.Modify book - Admin can modify book
+          3.Delete book - Admin can remove book
+          4.List of books - Admin can view books
+          5.Add user - Admin can Add user
+          6.Review books - Admin can view review 
+     
+     User Page
+         1.Create account
+         2.login 
+              1.Purchase books - user can take book
+              2.View cart - user can view cart
+              3.Wallet - wallet in this they can add amount
+              4.Your Review - user can view review
+              5.Your books - User can view taken books
+             
+4.RAILWAY TICKET BOOKING
+
+      One login - User
+      User : Login ID-vinith
+      Password - 1234
+      
+      User Page
+          1. New User
+          2. Existing User
+                 1.Seat booking - User can book seat
+                 2.Seat Cancleing - User can cancle seat
+                 3.History - User can view history book seat
+                 4.Password change - User can change password
+               
+
+5.SPLPITWISE
+     
+      One login - User
+      User : Login ID-vinith
+      Password - 1234
+      
+      User Page
+         1.Create account
+         2.login 
+             1.Expences - User can pay amount
+             2.Add friend - User can add friend
+             3.Remove friend - User can remove friend
+             4.See the Debt - User can see Debt
+             5.Friends list - User can view friends 
+             6.Wallet - wallet in this they can add amount
+              
